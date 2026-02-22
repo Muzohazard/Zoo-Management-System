@@ -3,40 +3,40 @@ A Zoo Management System built in Java to manage animals, staff, enclosures, feed
 
 📌 Features
 
-Add, update, remove, and view animals
+- Add, update, remove, and view animals
 
-Manage enclosures and habitats
+- Manage enclosures and habitats
 
-Maintain staff records (zookeepers, veterinarians, admin)
+- Maintain staff records (zookeepers, veterinarians, admin)
 
-Track feeding schedules
+- Track feeding schedules
 
-Basic reporting and zoo statistics
+- Basic reporting and zoo statistics
 
-Persistent data storage (if implemented: file handling / database)
+- Persistent data storage (if implemented: file handling / database)
 
- Modular and extensible OOP design
+-  Modular and extensible OOP design
 
  🧠 System Design Overview
 
-The system follows core OOP principles:
+- The system follows core OOP principles:
 
-Encapsulation – Data hiding within classes
+- Encapsulation – Data hiding within classes
 
-Inheritance – Specialized animal/staff types
+- Inheritance – Specialized animal/staff types
 
-Polymorphism – Common interfaces for behaviors
+- Polymorphism – Common interfaces for behaviors
 
-Abstraction – Clear separation of concerns
+- Abstraction – Clear separation of concerns
 
 🔮 Future Improvements
 
-Database integration (MySQL/PostgreSQL)
+- Database integration (MySQL/PostgreSQL)
 
-Web-based interface (Spring Boot)
+- Web-based interface (Spring Boot)
 
- REST API support
+- REST API support
 
-Authentication & role-based access
+- Authentication & role-based access
 
 Advanced analytics dashboard
